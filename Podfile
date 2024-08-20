@@ -1,4 +1,4 @@
-# Uncomment the next line to define a global platform for your projectasdasdasdsaasdasdasdasdasdasd
+# Uncomment the next line to define a global platform for your projectasdasdasdsaasdasdasdasdasdasdasdasdas
 # platform :ios, '9.0'
 
 target 'Appcircle' do
